@@ -8,4 +8,4 @@ In this challenge we are to take the existing code and doing the following:
     3. Add alt attributes to any images to assist with visually impared users providing a description of the images
     4. Order the headings to be in sequential order 
     5. Update the title to be descriptive and under 60 characters as most browsers will not read beyond that
-    assets\images\Screenshot 2022-05-06 235248.png
+    
